@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# VSCode or PyCharm settings (optional)
+.vscode/
+.idea/
+
+# Mac OS files
+.DS_Store
+
+# Log files
+*.log
+
+# Data files you don't want to push
+*.csv
+*.xlsx
+*.xls
+*.sav
+
+# Environment files
+*.env
